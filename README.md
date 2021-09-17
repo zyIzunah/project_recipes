@@ -1,0 +1,2 @@
+This is a project to test out a working knowledge of HTML, this is the first of a series of projects on The Odin Project.
+The goal of this project is flesh out a website that holds various recipes with links to their pages and a series of instructions on how to make the dishes.
