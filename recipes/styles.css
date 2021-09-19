@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Garamond, sans-serif;
+}
+
+h1 {
+    color: darkorange;
+}
+
+strong {
+    color: orangered;
+}
+
+li {
+    font-style: italic;
+}
+
+.pop, .link {
+    color: orange;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.centered, .pop, h1 {
+    text-align: center;
+}
